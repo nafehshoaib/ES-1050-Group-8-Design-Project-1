@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ssh://pi@raspberrypi.local:22/home/pi/Projects/UWO/Design1050/DesignProjects/DP1/Test1/venv/bin/python" name="ssh://pi@raspberrypi.local:22/home/pi/Projects/UWO/Design1050/DesignProjects/DP1/Test1/venv/bin/python">
+        <fileTransfer host="raspberrypi.local" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

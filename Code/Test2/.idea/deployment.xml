@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://pi@raspberrypi.local:22/home/pi/Projects/UWO/Design1050/DesignProjects/DP1/Test1/venv/bin/python" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://pi@raspberrypi.local:22/home/pi/Projects/UWO/Design1050/DesignProjects/DP1/Test1/venv/bin/python">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/pi/Projects/UWO/Design1050/DesignProjects/DP1/Test2" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
